@@ -20,4 +20,4 @@ http://robotium.com/
 
 
 
-这是自我练习的robotium
+this is my robotium test.
